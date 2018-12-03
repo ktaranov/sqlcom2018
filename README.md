@@ -4,7 +4,7 @@
 
 Konstantin Taranov k@taranov.pro
 
-https://github/ktaranov/sqlcom2018
+https://github.com/ktaranov/sqlcom2018
 
 https://t.me/ktaranov
 
